@@ -14,9 +14,10 @@ scikit-learn==1.5.2
 
 # --- visualização ---
 plotly==5.24.1
+pillow==12.3.0
 
 # --- aplicação ---
-streamlit==1.39.0
+streamlit==1.63.0
 
 # --- notebooks ---
 jupyter==1.1.1
